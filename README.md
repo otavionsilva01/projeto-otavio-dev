@@ -5,3 +5,7 @@
 
 <h3>IMAGEM DESKTOP</h3>
 <img src="https://github.com/otavionsilva01/projeto-otavio-dev/blob/main/desktop.png?raw=true">
+
+
+<h4>LOGO MOBILE</h4>
+<img src="https://github.com/otavionsilva01/projeto-otavio-dev/blob/main/mobile.png?raw=true">
