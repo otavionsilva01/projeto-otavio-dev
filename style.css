@@ -38,7 +38,7 @@ p{
     font-weight: 400;
     line-height: 33px; 
     letter-spacing: 0.5px;
-    margin-top: 47px;
+    margin-top: -31px;
     margin-bottom: 55px;
 }
 .botao-click{
@@ -57,7 +57,7 @@ p{
 }
 img{
     display: inline-block;
-    margin: 163px 0 0 123px
+    margin: 10px 0 0 123px
 
 }
 div{
@@ -73,7 +73,7 @@ div{
     line-height: normal;
     letter-spacing: 1px;
     border: none;
-    margin: 10px 0 0 30px;
+    margin: 0px 0 0 30px;
     cursor: pointer;
 }
 
